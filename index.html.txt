@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>first time</title>
+</head>
+<body background="c:\Users\sagar kumar\Desktop\vivo v15 pro\sagarkk.webp" style="background-repeat: no-repeat;background-size: 100%;">
+<!--row 1-->
+<table border="0" height="700px" width="100%">
+<tr>
+
+<th></th>
+<th><a href="https://www.instagram.com/sagarkr02/#">sagar kumar.in</a></th>
+<th></th>
+<th> <a href="#">home</a></th>
+<th> <a href="#">contact us</a></th>
+<th></th>
+</tr>
+<!--row 2-->
+<tr>
+<th colspan="6">
+<font color="white" face="helvetica"></font>
+
+<h1>
+welcome to our webside
+</h1><br>
+<h2>sagar modi!</h2>
+</th>
+
+</tr>
+<!--ROW 3-->
+<tr>
+<th colspan="6">
+<font size="5" color="pink" face="aquire"> follow my insta id </font>
+</th>
+
+</tr>
+<!--ROW 3-->
+<tr>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<!--ROW 4-->
+<tr>
+<th colspan="6">
+<font color="black"> thanks for visiting</font>
+</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+
+</tr>
+<!--ROW 5-->
+<tr>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<!--ROW 6-->
+<TR>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</TR>
+</table>
+</body>
+</html>
